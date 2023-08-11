@@ -1,0 +1,7 @@
+__pycache__
+.pytest_cache
+temp/*
+.ipynb_checkpoints/
+scratch.mo
+*.mat
+*.log
